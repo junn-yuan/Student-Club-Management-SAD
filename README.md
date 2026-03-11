@@ -11,6 +11,7 @@ A comprehensive management solution designed to streamline student club operatio
 -**Documentation**: Software Requirements Specification (SRS)
 
 ##**My Role: Group Leader & Lead System Analyst**
+
 As the **Group Leader** for a team of 6, I was responsible for the end-to-end coordination of the project. My primary focus was ensuring technical consistency across all modules and managing the structural integrity of our documentation.
 
 **Key Leadership Contributions:**
