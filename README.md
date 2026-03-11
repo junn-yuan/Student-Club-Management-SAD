@@ -49,5 +49,8 @@ As the **Group Leader** for a team of 6, I was responsible for the end-to-end co
 
 If you are reviewing this for a Project Management or System Analyst role, I recommend starting here:
 
+[Click here to view the Full SRS Report](./Documentation/System%20Analysis%20And%20Design%20(Group%2027).pdf)
+
 1. Review the System Analysis And Design (Group 27).pdf for the full project scope.
+   
 2. Check the Architecture section for UML logic flows.
